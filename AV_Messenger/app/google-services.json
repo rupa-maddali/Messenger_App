@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053598694183",
+    "project_id": "avmessenger-e2d03",
+    "storage_bucket": "avmessenger-e2d03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053598694183:android:0d717660de75ccd9640702",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053598694183-qkhb7iiaps97o6723pat0nk59lkuoepl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.av.avmessenger",
+            "certificate_hash": "849e2beb519bfadb67b1a91cdb3a0697b97cf6c8"
+          }
+        },
+        {
+          "client_id": "1053598694183-1u1ni8ek43pujfs9pvc11i7kvark5bm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrJZOq1rEXZ3r61WxwZDE-XutsP3PI2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053598694183-1u1ni8ek43pujfs9pvc11i7kvark5bm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
